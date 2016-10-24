@@ -1,5 +1,5 @@
 {
-    "name": "Go Highlighter",
+    "name": "go-language-syntax-highlighter",
     "title": "Go language syntax highlighter",
     "description": "Brings support for Go language from CodeMirror to Brackets.",
     "homepage": "https://github.com/nkhar/Go-Highlighter",

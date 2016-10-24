@@ -1,0 +1,16 @@
+{
+    "name": "Go Highlighter",
+    "title": "Go language syntax highlighter",
+    "description": "Brings support for Go language from CodeMirror to Brackets.",
+    "homepage": "https://github.com/nkhar/Go-Highlighter",
+    "version": "1.0.0",
+    "author": {
+        "name": "nkhar",
+        "url": "https://github.com/nkhar"
+    },     
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
